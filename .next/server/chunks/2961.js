@@ -1,0 +1,1 @@
+"use strict";exports.id=2961,exports.ids=[2961],exports.modules={67096:(e,r,t)=>{e.exports=t(20399)},58337:(e,r,t)=>{e.exports=t(67096).vendored["react-rsc"].ReactDOM},4656:(e,r,t)=>{e.exports=t(67096).vendored["react-rsc"].ReactJsxRuntime},3542:(e,r,t)=>{e.exports=t(67096).vendored["react-rsc"].React}};
