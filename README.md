@@ -112,5 +112,3 @@ The project has the following code structure:
 This structure organizes the project into different directories based on their functionality, making it easier to navigate and maintain.
 
 I had already put some of the data for the manager,admin etc of a particular organisation. To have a particular page to be protected for the user
-
-If you have any questions or need further assistance, don't hesitate to reach out. Happy coding!
